@@ -149,4 +149,4 @@ Supports multiple screen sizes: Desktop → Tablet → Mobile
 
 ---
 
-*Built with ❤️ using Rust + WebAssembly*
+Contract ID: CCFJJQ7B7EWXVKY2VHCH27DPMOKTCNLRO2ODLP7S7XH25TGC7T5H6OID
